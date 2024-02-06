@@ -1,0 +1,17 @@
+{
+  "name": "parcel-undefined-require",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/natan-stripe/parcel-undefined-require.git",
+  "author": "Natan LaFontaine <natan@stripe.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel serve --no-cache"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "source": [
+    "./index.js"
+  ]
+}
